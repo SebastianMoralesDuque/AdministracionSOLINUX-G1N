@@ -1,2 +1,4 @@
-# Linux![2](https://user-images.githubusercontent.com/91298191/155858198-ab076f7f-9fbd-4c7e-8ff7-b2ac413802c5.jpg)
-![1](https://user-images.githubusercontent.com/91298191/155858199-cabdbb58-5252-4e9c-b641-6b72d58b143a.jpg)
+# Linux!
+
+![1](https://user-images.githubusercontent.com/91298191/155858210-eea378fe-370a-46da-ae4b-3998491d465b.jpg)
+![2](https://user-images.githubusercontent.com/91298191/155858211-2b395d1d-6aeb-4c5e-829b-07b7c68c0457.jpg)
