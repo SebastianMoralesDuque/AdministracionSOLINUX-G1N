@@ -1,4 +1,4 @@
-# Linux! Practicar la creacion y el movimiento entre  los archivos 
+
 # Linux! Recuperar la contraseña del usuario root
 
 
