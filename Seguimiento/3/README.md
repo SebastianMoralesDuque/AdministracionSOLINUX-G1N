@@ -11,3 +11,8 @@ tar-xvf bisabuelo-comprimido.tar -C ../../../tmp
 tar-xvf bisabuelo-comprimido.tar -C ../../../root
 
 ![8](https://user-images.githubusercontent.com/91298191/158722191-cbeccdc1-b548-4f38-9df0-b4177f1101ae.png)
+
+
+unzip archivozip-bisabuela.zip 
+
+![9](https://user-images.githubusercontent.com/91298191/158722944-311814b7-b7a3-48f7-9499-a01906b61c02.png)
