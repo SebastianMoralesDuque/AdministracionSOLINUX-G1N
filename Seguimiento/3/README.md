@@ -5,5 +5,9 @@
 
 tar-xvf bisabuelo-comprimido.tar -C ../../../tmp
 
+![7](https://user-images.githubusercontent.com/91298191/158721104-43eded60-1da6-452d-af66-ed74d727441f.png)
 
-![6](https://user-images.githubusercontent.com/91298191/158720769-6728d57f-c5c7-4318-8469-ec35c255b60d.png)
+
+tar-xvf bisabuelo-comprimido.tar -C ../../../root
+
+![8](https://user-images.githubusercontent.com/91298191/158722191-cbeccdc1-b548-4f38-9df0-b4177f1101ae.png)
