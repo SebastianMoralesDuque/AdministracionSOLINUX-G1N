@@ -34,7 +34,7 @@ diferentes usuarios.
 
 ![6-7](https://user-images.githubusercontent.com/91298191/160325613-a8d67573-20f2-4013-92e6-986079c73f75.png)
 
-8-9.Usando diferentes terminales, entre al sistema con los diferentes usuarios:
+8-9.Usando diferentes terminales, entre al sistema con los diferentes usuarios: (equivoquese algunas veces por completo):
 
 ![8-9](https://user-images.githubusercontent.com/91298191/160325614-8cc16ff6-349f-4cf2-a860-581b3263c764.png)
 
