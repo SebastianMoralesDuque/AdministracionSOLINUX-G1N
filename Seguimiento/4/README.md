@@ -3,15 +3,15 @@
 
 1. Crear dos grupos llamados: profesor, estudiante.
 
-groupadd profesor
+  -groupadd profesor
 
-groupadd estudiante
+  -groupadd estudiante
 
 3.Crear tres usuarios llamados: diana, claudia y laura.
 
-useradd  laura 
+  -useradd  laura 
 
-usermod -a -G estudiante laura
+  -usermod -a -G estudiante laura
 
 3. Conociendo que: diana es un profesor; laura es una estudiante y claudia es un profesor y un estudiante. Adicione todos los usuarios a los grupos correspondientes.
 
