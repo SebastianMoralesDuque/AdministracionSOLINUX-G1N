@@ -1,6 +1,10 @@
 
+# Linux! Creacion de grupos y permisos a carpetas/archivos
+
 groupadd estudiante
+
 groupadd profesor
+
 useradd  laura 
 
 usermod -a -G estudiante laura
