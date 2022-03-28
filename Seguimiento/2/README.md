@@ -4,11 +4,13 @@
 
 
 ![1](https://user-images.githubusercontent.com/91298191/157996379-35f1b07e-5782-4302-bb3c-81560e6652a7.png)
+
 rd.break
 
 
 
 ![2](https://user-images.githubusercontent.com/91298191/157996380-23f9fed1-77e7-4952-a9c9-944f275256e9.png)
+
 mount
 
 mount -o rw.remount /sysroot/
