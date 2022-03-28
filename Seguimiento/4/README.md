@@ -40,11 +40,11 @@ diferentes usuarios.
 
 10.Determine la cantidad de veces que el estudiante laura ingreso al sistema.
 
-![10](https://user-images.githubusercontent.com/91298191/160325615-24ccda4d-dc47-4f72-a62d-29f16a646a35.png)
+![11](https://user-images.githubusercontent.com/91298191/160325610-fcd2aaa3-81ca-48e8-8675-9724e67cb96f.png)
 
 11. Comprima el contenidos del directorio de los profesores en profesore.tgz y el contenido del directorio de los estudiante en un archivo estudiantes.zip
 
-![11](https://user-images.githubusercontent.com/91298191/160325610-fcd2aaa3-81ca-48e8-8675-9724e67cb96f.png)
+![10](https://user-images.githubusercontent.com/91298191/160325615-24ccda4d-dc47-4f72-a62d-29f16a646a35.png)
 
 12. Cree un alias para cambiar la clave del usuario diana.
 
