@@ -20,9 +20,9 @@ function nginx {
 function main {
    if [[ "$parametro" == "nginx" ]]
    then
-      httpd
-   else
       nginx
+   else
+      httpd
    fi
 }
 
