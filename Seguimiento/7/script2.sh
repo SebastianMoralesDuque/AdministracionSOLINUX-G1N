@@ -1,5 +1,6 @@
 #!/bin/bash
 
+main $parametro
 
 function httpd {
 
@@ -27,5 +28,4 @@ function main {
       nginx
    fi
 }
-main $parametro
 
