@@ -3,7 +3,6 @@
 main $parametro
 
 function httpd {
-
    sudo yum remove nginx -y
    sudo yum install httpd -y
    sudo systemctl start httpd
@@ -17,8 +16,6 @@ function nginx {
    sudo systemctl enable nginx
 
 }
-
-
 
 function main {
    if [[ "$parametro" == "nginx" ]]
