@@ -3,7 +3,7 @@
 ![taller 7](https://user-images.githubusercontent.com/91298191/167995972-791edfef-30b2-4a51-8734-fce24799315e.png)
 
 
-# 2) Instalamps  el paquete telnet e intentamos conectarnos por el puerto 3306
+# 2) Instalamos  el paquete telnet e intentamos conectarnos por el puerto 3306
 ![taller 7 maquina 2](https://user-images.githubusercontent.com/91298191/167996264-0c9472be-120d-48b3-9bb4-08f15bfbfba1.png)
 
 # 3) Configurar el servidor para permitir la conexion 
