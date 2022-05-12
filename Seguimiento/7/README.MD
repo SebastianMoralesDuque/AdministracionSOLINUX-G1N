@@ -1,6 +1,7 @@
 # 1) Instalamos mysql en la maquina servidor y probamos que el servicio esta activo
-![taller 7](https://user-images.githubusercontent.com/91298191/167995972-791edfef-30b2-4a51-8734-fce24799315e.png)
 ![taller 7 parte 4](https://user-images.githubusercontent.com/91298191/167996570-d1a225bb-c366-4a74-9688-85ce391ab4e1.png)
+![taller 7](https://user-images.githubusercontent.com/91298191/167995972-791edfef-30b2-4a51-8734-fce24799315e.png)
+
 
 # 2) Instalamps  el paquete telnet e intentamos conectarnos por el puerto 3306
 ![taller 7 maquina 2](https://user-images.githubusercontent.com/91298191/167996264-0c9472be-120d-48b3-9bb4-08f15bfbfba1.png)
